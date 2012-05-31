@@ -1,14 +1,14 @@
-development-resources
+Dev resources
 =====================
 
-A collection of resources for the various bits and pieces we use in frontend development
+The various bits and pieces we use in frontend development
 
 ---
 
 ## HTML, CSS, JS
 
 HTML5 boilerplate - this is the starting point we use for frontend work
-html5boilerplate.com
+http://html5boilerplate.com
 
 Responsive web design
 http://www.alistapart.com/articles/responsive-web-design/
